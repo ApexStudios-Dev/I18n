@@ -1,4 +1,4 @@
-# I18n
+# ApexStudios - Localization
 Public repo which holds all translation data for our projects.
 
 Each folder in this Repository holds translation files (_.json_) for one of our project.<br>
