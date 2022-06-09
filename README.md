@@ -9,7 +9,8 @@ To add support for a new language create a translation file for the language you
 
 ---
 
-Pull requests attempting to modify the following language files **WILL BE** rejected as they are auto-generated
+Pull requests attempting to modify the following language files **WILL BE** rejected as they are protected & auto-generated.
+These files are provided as examples of what other languages should attempt to translate to.
 - **en_us**
 - **en_ud**
 - **en_gb**
