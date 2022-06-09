@@ -1,4 +1,4 @@
-{
+﻿{
   "block.fantasydice.dice_station": "Dice Station",
   "fantasydice.coin.flip.prefix": "%s flipped",
   "fantasydice.coin.flip.suffix": "%s Heads and %s Tails",
@@ -103,5 +103,17 @@
   "item.fantasydice.8_sided_wooden_die": "8-Sided Wooden Die",
   "item.fantasydice.golden_coin": "Golden Coin",
   "item.fantasydice.iron_coin": "Iron Coin",
-  "item.fantasydice.pouch": "Dice Pouch"
+  "item.fantasydice.pouch": "Dice Pouch",
+  "item.fantasydice.10_sided_amethyst_die": "10-Sided Amethyst Die",
+  "item.fantasydice.10_sided_copper_die": "10-Sided Copper Die",
+  "item.fantasydice.12_sided_amethyst_die": "12-Sided Amethyst Die",
+  "item.fantasydice.12_sided_copper_die": "12-Sided Copper Die",
+  "item.fantasydice.20_sided_amethyst_die": "20-Sided Amethyst Die",
+  "item.fantasydice.20_sided_copper_die": "20-Sided Copper Die",
+  "item.fantasydice.4_sided_amethyst_die": "4-Sided Amethyst Die",
+  "item.fantasydice.4_sided_copper_die": "4-Sided Copper Die",
+  "item.fantasydice.6_sided_amethyst_die": "6-Sided Amethyst Die",
+  "item.fantasydice.6_sided_copper_die": "6-Sided Copper Die",
+  "item.fantasydice.8_sided_amethyst_die": "8-Sided Amethyst Die",
+  "item.fantasydice.8_sided_copper_die": "8-Sided Copper Die"
 }

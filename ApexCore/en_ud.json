@@ -1,13 +1,13 @@
-{
-  "block.apexcore.player_plushie": "\u01DD\u0131\u0265sn\u05DF\u0500 \u0279\u01DD\u028E\u0250\u05DF\u0500",
-  "itemGroup.category.armor": "\u0279o\u026F\u0279\u2C6F",
-  "itemGroup.category.enchanted_books": "s\u029Eoo\u15FA p\u01DD\u0287u\u0250\u0265\u0254u\u018E",
-  "itemGroup.category.logs": "sbo\uA780",
-  "itemGroup.category.ores": "s\u01DD\u0279O",
-  "itemGroup.category.slabs": "sq\u0250\u05DFS",
-  "itemGroup.category.stairs": "s\u0279\u0131\u0250\u0287S",
-  "itemGroup.category.storage_blocks": "s\u029E\u0254o\u05DF\u15FA \u01DDb\u0250\u0279o\u0287S",
-  "itemGroup.category.tools": "s\u05DFoo\u27D8",
-  "itemGroup.category.weapons": "suod\u0250\u01DDM",
-  "itemGroup.category.wool": "s\u05DFooM"
+﻿{
+  "block.apexcore.player_plushie": "ǝıɥsnןԀ ɹǝʎɐןԀ",
+  "itemGroup.category.armor": "ɹoɯɹⱯ",
+  "itemGroup.category.enchanted_books": "sʞooᗺ pǝʇuɐɥɔuƎ",
+  "itemGroup.category.logs": "sboꞀ",
+  "itemGroup.category.ores": "sǝɹO",
+  "itemGroup.category.slabs": "sqɐןS",
+  "itemGroup.category.stairs": "sɹıɐʇS",
+  "itemGroup.category.storage_blocks": "sʞɔoןᗺ ǝbɐɹoʇS",
+  "itemGroup.category.tools": "sןoo⟘",
+  "itemGroup.category.weapons": "suodɐǝM",
+  "itemGroup.category.wool": "sןooM"
 }
