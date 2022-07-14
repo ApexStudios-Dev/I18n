@@ -9,11 +9,7 @@ To add support for a new language create a translation file for the language you
 
 ---
 
-Pull requests attempting to modify the following language files **WILL BE** rejected as they are protected & auto-generated.
-These files are provided as examples of what other languages should attempt to translate to.
-- **en_us**
-- **en_ud**
-- **en_gb**
+Pull requests attempting to modify the **en_us** language file **WILL BE** rejected as it is protected & auto-generated.
+This file is provided as an example of what other languages should attempt to translate to.
 
-If you belive the a translation value for these languages are incorrect, create a Pull request on the respective mod modifying the generator code (using _Registrator_).<br>
-_The `.lang()` in most cases_
+If you belive a English translation is incorrect, [join our Discord](https://discord.apexmods.xyz/) and notify us via the correct mod's channel.
