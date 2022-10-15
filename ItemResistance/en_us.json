@@ -1,0 +1,4 @@
+{
+  "gamerule.itemresistance:explosionsDisabled": "ExplosionsDisabled",
+  "txt.itemresistance.explosions_disabled": "Explosions have been disabled via the GameRule: %s"
+}
