@@ -1,0 +1,4 @@
+{
+  "gamerule.itemresistance:explosionsDisabled": "Вибухи вимкнено",
+  "txt.itemresistance.explosions_disabled": "Вибухи вимкнено ігровим правилом: %s"
+}
