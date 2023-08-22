@@ -9,7 +9,7 @@ To add support for a new language create a translation file for the language you
 
 ---
 Accepting pull requests is currently on hold, due to Multi-Loader development taking priority.<br>
-You are however free to still make PRs, just be aware they will not be merged until Multi-Loader is ready for release.
+You are however free to still make PRs (against the `multi-loader` branch), just be aware they will not be merged until Multi-Loader is ready for release.
 
 [_See this PR for active Multi-Loader development._](https://github.com/ApexStudios-Dev/ApexCore/pull/11)
 
