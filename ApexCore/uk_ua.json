@@ -1,13 +1,3 @@
 {
-  "entity.apexcore.seat": "Сидіння",
-  "itemGroup.category.armor": "Обладунки",
-  "itemGroup.category.enchanted_books": "Зачаровані книги",
-  "itemGroup.category.logs": "Колоди",
-  "itemGroup.category.ores": "Руди",
-  "itemGroup.category.slabs": "Плити",
-  "itemGroup.category.stairs": "Сходи",
-  "itemGroup.category.storage_blocks": "Блоки-сховища",
-  "itemGroup.category.tools": "Інструменти",
-  "itemGroup.category.weapons": "Зброя",
-  "itemGroup.category.wool": "Вовна"
+  "pack.apexcore.description": "ApexCore"
 }
