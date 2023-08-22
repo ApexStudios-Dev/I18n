@@ -17,9 +17,14 @@ You are however free to still make PRs (against the `multi-loader` branch), just
 ### `to_be_validated/` files
 
 Translations under this directory need to be validated before any new PRs can be accepted.<br>
-If you know any languages under this directory, feel free to validate them and open a PR for them.
 
-For a translation to be validated a matching English translation must exist in `en_us.json` and must translate to the newly validated value.
+#### How to validate a translation
+
+1. Choose a mod (e.g. `mod1/`) and a language (e.g. `es_es.json`) from the `to_be_validated/` directory, where the translations that need validation are located.
+2. Compare the file with the `en_us.json` file in the same mod directory, where the original English translations are located.
+3. Check if the translations match the meaning, tone, grammar and spelling of the English reference.
+4. Fix or comment on any errors or inconsistencies.
+5. Submit a pull request with your changes or comments and a brief description.
 
 ---
 Pull requests attempting to modify the **en_us** language file **WILL BE** rejected as it is protected & auto-generated.
