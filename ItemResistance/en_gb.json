@@ -1,5 +1,0 @@
-{
-  "gamerule.itemresistance:explosionsDisabled": "Explosions Disabled",
-  "gamerule.itemresistance:explosionsDisabled.description": "Controls whether Blocks may drop from explosions or not.",
-  "pack.itemresistance.description": "ItemResistance"
-}
